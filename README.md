@@ -1,1 +1,1 @@
-"Polytechnic College" 
+"Welcome to Polytechnic College" 
